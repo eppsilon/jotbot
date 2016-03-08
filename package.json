@@ -1,0 +1,11 @@
+{
+  "name": "jot",
+  "version": "0.0.1",
+  "description": "A minimalist tool for managing notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Epps <brett@eppsilon.com>",
+  "license": "MIT"
+}
