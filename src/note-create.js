@@ -7,7 +7,6 @@ export default {
   },
   handler(args) {
     const title = args._.pop();
-    console.log(`would create note with title ${title}`);
-    createNote(title);
+    return createNote(title);
   }
 };
